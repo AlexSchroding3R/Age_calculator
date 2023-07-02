@@ -114,11 +114,11 @@ span{
     color: var(--Purple);
 }
 
-@media (max-width: 375px){
+@media (max-width: 400px){
     .container{
         width: 350px;
-        padding-bottom: 50px;
-        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-top: 30px;
     }
     .details{
         font-size: 52px;
@@ -134,15 +134,13 @@ span{
     button{
        margin-right: 43%;
 
-
-
     }
     .upperbox{
         gap: 0.8em;
        
     }
     hr{
-        margin-top: 60px;
+        margin-top: 40px;
         /* margin-bottom: 40px; */
     }
     .block{
