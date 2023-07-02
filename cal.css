@@ -117,8 +117,8 @@ span{
 @media (max-width: 400px){
     .container{
         width: 350px;
-        padding-bottom: 30px;
-        padding-top: 30px;
+        padding-bottom: 40px;
+        padding-top: 40px;
     }
     .details{
         font-size: 52px;
@@ -132,7 +132,7 @@ span{
         font-size: 20px;
     }
     button{
-       margin-right: 43%;
+       margin-right: 39%;
 
     }
     .upperbox{
@@ -140,7 +140,7 @@ span{
        
     }
     hr{
-        margin-top: 40px;
+        margin-top: 50px;
         /* margin-bottom: 40px; */
     }
     .block{
