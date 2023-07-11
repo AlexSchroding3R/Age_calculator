@@ -36,18 +36,18 @@ function calculation() {
     }
     if (input_day.value == "") {
         lab[0].style.color = "red";
-        empty_error[0].innerHTML = "Ther field in required";
+        empty_error[0].innerHTML = "This field is required";
         check = false;
     }
     if (input_month.value == "") {
         lab[1].style.color = "red";
-        empty_error[1].innerHTML = "Ther field in required";
+        empty_error[1].innerHTML = "This field is required";
         check = false;
     }
 
     if (input_years.value == "") {
         lab[2].style.color = "red";
-        empty_error[2].innerHTML = "Ther field in required";
+        empty_error[2].innerHTML = "This field is required";
         check = false;
     }
     if(check === false)
